@@ -1,5 +1,5 @@
 > [!warning]
-> This repository has been archived and moved to codeberg: https://codeberg.org/RedddFoxxyy/calcurus
+> This repository has been archived and moved to codeberg: [https://codeberg.org/lockedmutex/calcurus](https://codeberg.org/lockedmutex/calcurus)
 > 
 > It is not mirored and will not be receiving any updates.
 
